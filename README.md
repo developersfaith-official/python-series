@@ -25,8 +25,8 @@ by **Husnain (Developer Faith)**
 ## First Program
 ```python
 print("Hello, World!")
-
-Save as hello.py → double click to run
+```
+Save as` hello.py` → double click to run
 
 **Next: Variables & Data Types**
 ----------------------------------------------------------------
@@ -44,7 +44,7 @@ Save as hello.py → double click to run
 ## Pehla Program
 ```python
 print("Hello, World!")
-
+```
 ### hello.py save karo → double click → output dekho
 **Agla: Variables & Data Types**
 ----------------------------------------------------------------
@@ -62,7 +62,7 @@ print("Hello, World!")
 ## Erstes Programm
 ```python
 print("Hello, World!")
-
+```
 Als hello.py speichern → doppelklickenz
 
 **Nächstes: Variablen & Datentypen**
@@ -81,6 +81,6 @@ Als hello.py speichern → doppelklickenz
 ## 第一个程序
 ```python
 print("Hello, World!")
-
+```
 保存为 hello.py → 双击运行
 **下一课： 变量与数据类型**
