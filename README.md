@@ -8,11 +8,11 @@ by **Husnain (Developer Faith)**
 
 ## Lecture 01: What is Python?
 
-🌐 **Read in:** [English](#english) | [Roman Urdu](#roman-urdu) | [Deutsch](#deutsch-german) | [中文](#中文-chinese)
+🌐 **Read in:** [English](#english) | [Roman Urdu](#roman-urdu) | [Deutsch](#deutsch) | [中文](#中文)
 
 ---
 
-### English {#english}
+### English
 ## What is Python?
 - A **simple programming language**
 - English-like syntax
@@ -23,14 +23,15 @@ by **Husnain (Developer Faith)**
 2. Install → **Tick "Add Python to PATH"**
 
 ## First Program
+```python
 print("Hello, World!")
 
-Save as hello.py → double click to runZ
+Save as hello.py → double click to run
 
 **Next: Variables & Data Types**
 ----------------------------------------------------------------
 
-### Roman Urdu {#roman-urdu}
+### Roman Urdu 
 ## Python kya ha?
 - Ek **High level or bohot aasan programming language ha**
 - Is ko english ki trhn likha jata ha.
@@ -41,13 +42,14 @@ Save as hello.py → double click to runZ
 2. Install → **"Add to PATH"** tick karo
 
 ## Pehla Program
+```python
 print("Hello, World!")
 
 ### hello.py save karo → double click → output dekho
 **Agla: Variables & Data Types**
 ----------------------------------------------------------------
 
-### Deutsch {#deutsch-german}
+### Deutsch 
 ## Was ist Python?
 - Eine **einfache Programmiersprache**
 - Englisch-ähnliche Syntax
@@ -58,6 +60,7 @@ print("Hello, World!")
 2. Installieren → **"Add to PATH"** anhaken
 
 ## Erstes Programm
+```python
 print("Hello, World!")
 
 Als hello.py speichern → doppelklickenz
@@ -65,7 +68,7 @@ Als hello.py speichern → doppelklickenz
 **Nächstes: Variablen & Datentypen**
 ----------------------------------------------------------------
 
-### 中文 {#中文-chinese}
+### 中文 
 ## Python 是什么？
 - 一门**简单编程语言**
 - 类似英语的语法
@@ -76,6 +79,7 @@ Als hello.py speichern → doppelklickenz
 2. 安装 → 勾选 **"Add to PATH"**
 
 ## 第一个程序
+```python
 print("Hello, World!")
 
 保存为 hello.py → 双击运行
